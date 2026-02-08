@@ -1,2 +1,12 @@
 # Zero-Trust-Authentication-System
-A centralized monitoring dashboard that tracks metrics, logs, and alerts across multiple cloud providers (AWS, Azure, GCP) from a single interface.
+Never trust by default. Always verify on every request.
+
+This single Python file demonstrates:
+
+No session trust
+
+Token-based authentication
+
+Verification on every API call
+
+Minimal logic, easy to understand.
